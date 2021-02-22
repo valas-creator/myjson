@@ -1,1 +1,100 @@
-
+{
+  "Dining": [
+    {
+      "Location": "The Pie Barn",
+      "Hours": "Open daily 9am to close."
+    },
+    {
+      "Location": "Time-Out Turkey Legs",
+      "Hours": "Open Saturdays and Sundays at 11am."
+    },
+    {
+      "Location": "Farmer Jack's Pizza Shack",
+      "Hours": "Open evenings and weekends."
+    },
+    {
+      "Location": "Pirates' Cove Grub & Grog",
+      "Hours": "Open evenings and weekends."
+    },
+    {
+      "Location": "Howl-At-The-Moon Snack Shack",
+      "Hours": "Open weekends."
+    },
+    {
+      "Location": "Big Barn Bakery",
+      "Hours": "Open daily 9am to close."
+    },
+    {
+      "Location": "Kirsten's Gourmet Coffee Shop",
+      "Hours": "Open each morning and evening."
+    },
+    {
+      "Location": "Dairy Barn Burgers and Shakes",
+      "Hours": "Open daily 11am to 9pm"
+    },
+    {
+      "Location": "Cookie Coop",
+      "Hours": "Open daily 9am to 9pm."
+    },
+    {
+      "Location": "Legs and Cakes Smokehouse",
+      "Hours": "Open daily 11am to 9pm."
+    },
+    {
+      "Location": "Grandpa's Kettle corn",
+      "Hours": "Open daily."
+    },
+    {
+      "Location": "Harvest Barn Donuts",
+      "Hours": "Open daily 9am to close"
+    },
+    {
+      "Location": "Lolo's Fudgery and Popcorn Shop",
+      "Hours": "Open weekdays 11am to 9pm and weekends 9am to close."
+    },
+    {
+      "Location": "Kelsey's Sweet Shoppe",
+      "Hours": "Open weekdays 11am to 3pm and weekends 9am to close."
+    },
+    {
+      "Location": "Potatoe Patch Cookery",
+      "Hours": "Open most weekdays and weekends 11am to 9pm."
+    },
+    {
+      "Location": "Pork Chop Annies",
+      "Hours": "Open weekdays 5pm to 8pm and weekends 11am to 9pm."
+    },
+    {
+      "Location": "Country Bakery",
+      "Hours": "Open daily 9am to 9pm."
+    },
+    {
+      "Location": "Darby's Dog Depot",
+      "Hours": "Open daily 11am to 8pm."
+    },
+    {
+      "Location": "Slushie Station",
+      "Hours": "Open most weekdays and weekends 11am to 8pm."
+    },
+    {
+      "Location": "Town Hall Funnel Cakes",
+      "Hours": "Open Saturdays and Sundays from 11am to 9pm."
+    },
+    {
+      "Location": "Cousin's Chick'n Shack and Waffle House",
+      "Hours": "Open weekdays 11am to 8pm and weekends 9am to 8pm."
+    },
+    {
+      "Location": "The Roost",
+      "Hours": "Open weekdays 5pm to 8:30pm and weekends 11am to 9pm."
+    },
+    {
+      "Location": "Cider Silo",
+      "Hours": "Open weekday evenings and weekends."
+    },
+    {
+      "Location": "Silo Grill",
+      "Hours": "Open weekends."
+    },
+    ]
+}
