@@ -10,7 +10,7 @@
     },
     {
       "Location": "Farmer Jack's Pretzel Shack",
-      "Hours": "Open evenings and weekends."
+      "Hours": "Open daily from 11am to close"
     },
     {
       "Location": "Pirates' Cove Grub & Grog",
@@ -30,19 +30,19 @@
     },
     {
       "Location": "Dairy Barn Burgers and Shakes",
-      "Hours": "Open daily 11am to 9pm"
+      "Hours": "Open daily, 11am to 9pm"
     },
     {
       "Location": "Cookie Coop",
-      "Hours": "Open daily 9am to 9pm."
+      "Hours": "Open daily, 11am to 9pm."
     },
     {
       "Location": "Legs and Cakes Smokehouse",
-      "Hours": "Open daily 11am to 9pm."
+      "Hours": "Open daily, 11am to 9pm."
     },
     {
       "Location": "Grandpa's Kettle corn",
-      "Hours": "Open daily."
+      "Hours": "Open daily from 11am to close."
     },
     {
       "Location": "Harvest Barn Donuts",
@@ -50,11 +50,11 @@
     },
     {
       "Location": "Lolo's Fudgery and Popcorn Shop",
-      "Hours": "Open weekdays 11am to 9pm and weekends 9am to close."
+      "Hours": "Open daily from 11am to close."
     },
     {
       "Location": "Kelsey's Sweet Shoppe",
-      "Hours": "Open weekdays 11am to 3pm and weekends 9am to close."
+      "Hours": "Open daily from 11am to close."
     },
     {
       "Location": "Potatoe Patch Cookery",
@@ -62,39 +62,43 @@
     },
     {
       "Location": "Pork Chop Annies",
-      "Hours": "Open weekdays 5pm to 8pm and weekends 11am to 9pm."
+      "Hours": "Open daily from 11am to 8pm."
     },
     {
       "Location": "Grandma's Kitchen",
-      "Hours": "Open daily 9am to 9pm."
+      "Hours": "Open daily 9am to close."
     },
     {
       "Location": "Darby's Dog Depot",
-      "Hours": "Open daily 11am to 8pm."
+      "Hours": "Open daily 11am to close."
     },
     {
       "Location": "Slushie Station",
-      "Hours": "Open most weekdays and weekends 11am to 8pm."
+      "Hours": "Open 11am to close on Saturdays and Sundays."
     },
     {
       "Location": "Town Square Churros",
-      "Hours": "Open Saturdays and Sundays from 11am to 9pm."
+      "Hours": "Open 11am to 9pm on Saturdays and Sundays."
     },
     {
       "Location": "Cousin's Chick'n Shack and Waffle House",
-      "Hours": "Open weekdays 11am to 8pm and weekends 9am to 8pm."
+      "Hours": "Open weekdays 5pm to close and weekends 11am to 8pm."
     },
     {
       "Location": "Zoe's Pizza",
-      "Hours": "Open weekdays 5pm to 8:30pm and weekends 11am to 9pm."
+      "Hours": "Open daily 11am to close."
     },
     {
       "Location": "Cider Silo",
-      "Hours": "Open weekday evenings and weekends."
+      "Hours": "Open most weekdays noon to close. Saturdays and Sundays 11am to close."
     },
     {
-      "Location": "Cider Wagonb",
-      "Hours": "Open weekends."
+      "Location": "Cider Wagon",
+      "Hours": "Open Friday evenings and from 11am to close on Saturdays and Sundays."
+    },
+    {
+      "Location": "Cider House",
+      "Hours": "Open most weekdays noon to close. Saturdays and Sundays 11am to close."
     },
     ]
 }
